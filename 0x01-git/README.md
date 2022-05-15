@@ -1,3 +1,3 @@
-my second commit
+Directory read me
 
 Read me updating
